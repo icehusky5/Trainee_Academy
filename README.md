@@ -1,1 +1,2 @@
-# Trainee_Academy
+# Trainee Academy Assignments Showcase
+Welcome to my Trainee Academy Assignments Showcase! In this repository, you'll find a collection of my completed assignments, demonstrating my skills and progress as a trainee.
