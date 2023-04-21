@@ -4,7 +4,9 @@ This project provides an API for managing student information.
 ## Installation
 To install this project, follow these steps:
 
-1. Install Node.js: Go to the official Node.js website (https://nodejs.org/) and download the latest version for your operating system. Follow the installation instructions.
+1. Install Node.js: 
+   
+   Go to the official Node.js website (https://nodejs.org/) and download the latest version for your operating system. Follow the installation instructions.
 
 2. Create a new directory for the project.
    
